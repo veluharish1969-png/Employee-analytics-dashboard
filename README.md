@@ -9,3 +9,13 @@
 - Employee Attrition Rate: 23.81%
 - Highest Employee Count by Department: Sales
 - Employee satisfaction and department distribution were analyzed using the dashboard.
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Formulas
+- Data Cleaning
+- Data Visualization
