@@ -1,2 +1,4 @@
-# Employee-analytics-dashboard
-Interactive Employee Analytics Dashboard built using Microsoft Excel
+### Dashboard Preview
+
+![Employee Dashboard](DASHBOARD.png)
+
